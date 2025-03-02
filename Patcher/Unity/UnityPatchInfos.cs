@@ -428,7 +428,7 @@ namespace UniHacker
             },
             new()
             {
-                Version = "2021.3.21",
+                Version = "2021.3.21;2021.3.45",
                 Architecture = ArchitectureType.MacOS_ARM64,
                 LightPattern = ToBytes(ToArray("14 68 68 38 14 05 00 34"), ToArray("20 06 00 36 E1 E3 01 91 E0 03 13 AA 2F 0B")),
                 DarkPattern = ToBytes(ToArray("14 68 68 38 28 00 00 14"), ToArray("20 06 00 37 E1 E3 01 91 E0 03 13 AA 2F 0B")),
